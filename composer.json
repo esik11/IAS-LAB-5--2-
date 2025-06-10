@@ -1,0 +1,8 @@
+{
+    "name": "security-system/audit",
+    "description": "Security System with Audit Reports",
+    "require": {
+        "php": ">=7.4",
+        "tecnickcom/tcpdf": "^6.10"
+    }
+}
